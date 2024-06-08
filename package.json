@@ -1,24 +1,4 @@
 {
-  "name": "2da-evap3vm",
-  "version": "1.0.0",
-  "description": "2da evaluacion de programacion 3 Victor Montenegro",
-  "main": "main.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/XxKaiserVictorYM7xX/2da-EvaP3VM.git"
-  },
-  "keywords": [
-    "express"
-  ],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/XxKaiserVictorYM7xX/2da-EvaP3VM/issues"
-  },
-  "homepage": "https://github.com/XxKaiserVictorYM7xX/2da-EvaP3VM#readme",
   "dependencies": {
     "express": "^4.19.2"
   }
